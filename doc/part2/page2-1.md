@@ -28,6 +28,9 @@ CUDA和cuDNN有不同版本，我们需要跟剧使用的机器学习框架选�
 
 ![Pytorch Cuda需求](../../img/part2/pytorch-version.png)  
 
+> pip install torch  
+or pip install -i https://pypi.tuna.tsinghua.edu.cn/simple torch
+
 最后一行是CUDA版本的选择，需要跟服务器的CUDA版本一致
 请询问学长/学姐服务器的CUDA版本，选择匹配的下载即可，如果服务器还没有安装CUDA，那就选一个最新版本的
 
